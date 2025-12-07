@@ -66,6 +66,16 @@
     font-weight: 380;
 }
 
+.location__icon{
+    width: 20px;
+    height: 20px;
+}
+
+.search__icon{
+    width: 20px;
+    height: 20px;
+}
+
 .hero__section_input_container{
     background-color: white;
     padding: 10px;
